@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a front-end only application. Styled fully with tailwind-css and its responsive
 
 ## Available Scripts
 
